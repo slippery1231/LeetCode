@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_392_Is_Subsequence", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_383_Ransom Note", "Easy_383_Ransom Note\Easy_383_Ransom Note.csproj", "{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_228_Summary_Ranges", "Easy_228_Summary_Ranges\Easy_228_Summary_Ranges.csproj", "{26919F02-AC5A-45CE-912C-DEFBF1A6A7AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26919F02-AC5A-45CE-912C-DEFBF1A6A7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26919F02-AC5A-45CE-912C-DEFBF1A6A7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26919F02-AC5A-45CE-912C-DEFBF1A6A7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26919F02-AC5A-45CE-912C-DEFBF1A6A7AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
