@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_125_Valid_Palindrome",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_392_Is_Subsequence", "Easy_392_Is_Subsequence\Easy_392_Is_Subsequence.csproj", "{807AC483-9689-4E1B-95C9-5A2F2AFEEE95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_383_Ransom Note", "Easy_383_Ransom Note\Easy_383_Ransom Note.csproj", "{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{807AC483-9689-4E1B-95C9-5A2F2AFEEE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{807AC483-9689-4E1B-95C9-5A2F2AFEEE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{807AC483-9689-4E1B-95C9-5A2F2AFEEE95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
