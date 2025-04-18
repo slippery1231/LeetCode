@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_228_Summary_Ranges", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_141_Linked_List_Cycle", "Easy_141_Linked_List_Cycle\Easy_141_Linked_List_Cycle.csproj", "{0345AD4D-098F-47A8-B552-1BE0EEF31893}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_104_Maximum_Depth_of_Binary_Tree", "Easy_104_Maximum_Depth_of_Binary_Tree\Easy_104_Maximum_Depth_of_Binary_Tree.csproj", "{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{0345AD4D-098F-47A8-B552-1BE0EEF31893}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0345AD4D-098F-47A8-B552-1BE0EEF31893}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0345AD4D-098F-47A8-B552-1BE0EEF31893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
