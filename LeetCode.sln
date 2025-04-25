@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_141_Linked_List_Cycle"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_104_Maximum_Depth_of_Binary_Tree", "Easy_104_Maximum_Depth_of_Binary_Tree\Easy_104_Maximum_Depth_of_Binary_Tree.csproj", "{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_21_Merge_Two_Sorted_Lists", "Easy_21_Merge_Two_Sorted_Lists\Easy_21_Merge_Two_Sorted_Lists.csproj", "{8F7BD4B6-E0CC-4E92-8ECA-057DD5A995FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7BD4B6-E0CC-4E92-8ECA-057DD5A995FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7BD4B6-E0CC-4E92-8ECA-057DD5A995FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7BD4B6-E0CC-4E92-8ECA-057DD5A995FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7BD4B6-E0CC-4E92-8ECA-057DD5A995FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
