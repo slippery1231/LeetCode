@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_70_Climbing_Stairs", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_67_Add_Binary", "Easy_67_Add_Binary\Easy_67_Add_Binary.csproj", "{FBD9063C-5D99-497D-9840-15FCE04ADEA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_ 66_Plus_One", "Easy_ 66_Plus_One\Easy_ 66_Plus_One.csproj", "{D764EA5D-27AC-4DC2-9E05-A6ACA171010B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{FBD9063C-5D99-497D-9840-15FCE04ADEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBD9063C-5D99-497D-9840-15FCE04ADEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBD9063C-5D99-497D-9840-15FCE04ADEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D764EA5D-27AC-4DC2-9E05-A6ACA171010B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D764EA5D-27AC-4DC2-9E05-A6ACA171010B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D764EA5D-27AC-4DC2-9E05-A6ACA171010B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D764EA5D-27AC-4DC2-9E05-A6ACA171010B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
