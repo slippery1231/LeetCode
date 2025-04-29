@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_ 66_Plus_One", "Easy_ 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_35_Search_Insert_Position", "Easy_35_Search_Insert_Position\Easy_35_Search_Insert_Position.csproj", "{E8865ACA-DD03-4419-A546-A298139B141D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium_209_Minimum_Size_Subarray_Sum", "Medium_209_Minimum_Size_Subarray_Sum\Medium_209_Minimum_Size_Subarray_Sum.csproj", "{EEBFFD7C-A526-428A-95ED-B6F9F45AEC87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{E8865ACA-DD03-4419-A546-A298139B141D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8865ACA-DD03-4419-A546-A298139B141D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8865ACA-DD03-4419-A546-A298139B141D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBFFD7C-A526-428A-95ED-B6F9F45AEC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBFFD7C-A526-428A-95ED-B6F9F45AEC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBFFD7C-A526-428A-95ED-B6F9F45AEC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBFFD7C-A526-428A-95ED-B6F9F45AEC87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
