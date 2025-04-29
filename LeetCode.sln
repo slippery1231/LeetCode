@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_21_Merge_Two_Sorted_Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_100_Same_Tree", "Easy_100_Same_Tree\Easy_100_Same_Tree.csproj", "{F8F69DF2-AC33-43D1-B6A3-A8232C08ED8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium_80_Remove_Duplicates_From_Sorted_ArrayII", "Medium_80_Remove_Duplicates_From_Sorted_ArrayII\Medium_80_Remove_Duplicates_From_Sorted_ArrayII.csproj", "{9F820A90-3709-49B3-B353-DDB358547088}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{F8F69DF2-AC33-43D1-B6A3-A8232C08ED8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8F69DF2-AC33-43D1-B6A3-A8232C08ED8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8F69DF2-AC33-43D1-B6A3-A8232C08ED8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F820A90-3709-49B3-B353-DDB358547088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F820A90-3709-49B3-B353-DDB358547088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F820A90-3709-49B3-B353-DDB358547088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F820A90-3709-49B3-B353-DDB358547088}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
