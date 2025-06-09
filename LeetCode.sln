@@ -44,7 +44,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_35_Search_Insert_Posit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium_209_Minimum_Size_Subarray_Sum", "Medium_209_Minimum_Size_Subarray_Sum\Medium_209_Minimum_Size_Subarray_Sum.csproj", "{EEBFFD7C-A526-428A-95ED-B6F9F45AEC87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{3ECFB46F-9DF5-4158-8E46-8988AA826C1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_9_Palindrome_Number", "Easy_9_Palindrome_Number\Easy_9_Palindrome_Number.csproj", "{3ECFB46F-9DF5-4158-8E46-8988AA826C1D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_1_Two_Sum", "Easy_1_Two_Sum\Easy_1_Two_Sum.csproj", "{80A6480C-95B0-44C6-B44E-F6413B31BD21}"
 EndProject
