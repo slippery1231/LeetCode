@@ -48,6 +48,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_9_Palindrome_Number", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_1_Two_Sum", "Easy_1_Two_Sum\Easy_1_Two_Sum.csproj", "{80A6480C-95B0-44C6-B44E-F6413B31BD21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy27_RemoveElement", "Easy27_RemoveElement\Easy27_RemoveElement.csproj", "{C7E688FD-F9CB-40BD-A309-C65F6DB27052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +152,9 @@ Global
 		{80A6480C-95B0-44C6-B44E-F6413B31BD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80A6480C-95B0-44C6-B44E-F6413B31BD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80A6480C-95B0-44C6-B44E-F6413B31BD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E688FD-F9CB-40BD-A309-C65F6DB27052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E688FD-F9CB-40BD-A309-C65F6DB27052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E688FD-F9CB-40BD-A309-C65F6DB27052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E688FD-F9CB-40BD-A309-C65F6DB27052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
