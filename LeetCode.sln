@@ -1,54 +1,64 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_26_RemoveDuplicatesFromSortedArray", "Easy_26_RemoveDuplicatesFromSortedArray\Easy_26_RemoveDuplicatesFromSortedArray.csproj", "{B0FF4A30-EBE8-4211-A579-85D11AF9CD03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy26_RemoveDuplicatesFromSortedArray", "Easy26_RemoveDuplicatesFromSortedArray\Easy26_RemoveDuplicatesFromSortedArray.csproj", "{B0FF4A30-EBE8-4211-A579-85D11AF9CD03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_169_MajorityElement", "Easy_169_MajorityElement\Easy_169_MajorityElement.csproj", "{D7157CCE-E4E5-434F-A6AE-8475B3EB1852}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy169_MajorityElement", "Easy169_MajorityElement\Easy169_MajorityElement.csproj", "{D7157CCE-E4E5-434F-A6AE-8475B3EB1852}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_121_BestTimeToBuyAndSellStock", "Easy_121_BestTimeToBuyAndSellStock\Easy_121_BestTimeToBuyAndSellStock.csproj", "{F8173CA2-B6C5-4996-B930-90695F14EE0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy121_BestTimeToBuyAndSellStock", "Easy121_BestTimeToBuyAndSellStock\Easy121_BestTimeToBuyAndSellStock.csproj", "{F8173CA2-B6C5-4996-B930-90695F14EE0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_13_RomanToInteger", "Easy_13_RomanToInteger\Easy_13_RomanToInteger.csproj", "{622A93C2-24E7-42A0-95F8-EA3114B87D85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy13_RomanToInteger", "Easy13_RomanToInteger\Easy13_RomanToInteger.csproj", "{622A93C2-24E7-42A0-95F8-EA3114B87D85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_58_Length_Of_Last_Word", "Easy_58_Length_Of_Last_Word\Easy_58_Length_Of_Last_Word.csproj", "{49B08472-3A64-405D-81E6-7CBF017080F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy58_LengthOfLastWord", "Easy58_LengthOfLastWord\Easy58_LengthOfLastWord.csproj", "{49B08472-3A64-405D-81E6-7CBF017080F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_14_Longest_Common_Prefix", "Easy_14_Longest_Common_Prefix\Easy_14_Longest_Common_Prefix.csproj", "{B0DEB871-74D7-4ABA-BF0D-69E09CFB7C3E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy14_LongestCommonPrefix", "Easy14_LongestCommonPrefix\Easy14_LongestCommonPrefix.csproj", "{B0DEB871-74D7-4ABA-BF0D-69E09CFB7C3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_28_Find_The_Index_Of_The_First_Occurrence_In_A_String", "Easy_28_Find_The_Index_Of_The_First_Occurrence_In_A_String\Easy_28_Find_The_Index_Of_The_First_Occurrence_In_A_String.csproj", "{711445A3-166D-479B-AFB6-7516B5E39AB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy28_FindTheIndexOfTheFirstOccurrenceInTheString", "Easy28_FindTheIndexOfTheFirstOccurrenceInTheString\Easy28_FindTheIndexOfTheFirstOccurrenceInTheString.csproj", "{711445A3-166D-479B-AFB6-7516B5E39AB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_20_Valid_Parentheses", "Easy_20_Valid_Parentheses\Easy_20_Valid_Parentheses.csproj", "{0D8FC2ED-E433-491C-8379-9756AE4AD8C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy20_ValidParentheses", "Easy20_ValidParentheses\Easy20_ValidParentheses.csproj", "{0D8FC2ED-E433-491C-8379-9756AE4AD8C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_125_Valid_Palindrome", "Easy_125_Valid_Palindrome\Easy_125_Valid_Palindrome.csproj", "{F56F3686-9C36-42F9-A29D-729E43312661}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy125_ValidPalindrome", "Easy125_ValidPalindrome\Easy125_ValidPalindrome.csproj", "{F56F3686-9C36-42F9-A29D-729E43312661}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_392_Is_Subsequence", "Easy_392_Is_Subsequence\Easy_392_Is_Subsequence.csproj", "{807AC483-9689-4E1B-95C9-5A2F2AFEEE95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy392_IsSubsequence", "Easy392_IsSubsequence\Easy392_IsSubsequence.csproj", "{807AC483-9689-4E1B-95C9-5A2F2AFEEE95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_383_Ransom Note", "Easy_383_Ransom Note\Easy_383_Ransom Note.csproj", "{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy383_RansomNote", "Easy383_RansomNote\Easy383_RansomNote.csproj", "{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_228_Summary_Ranges", "Easy_228_Summary_Ranges\Easy_228_Summary_Ranges.csproj", "{26919F02-AC5A-45CE-912C-DEFBF1A6A7AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy228_SummaryRanges", "Easy228_SummaryRanges\Easy228_SummaryRanges.csproj", "{26919F02-AC5A-45CE-912C-DEFBF1A6A7AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_141_Linked_List_Cycle", "Easy_141_Linked_List_Cycle\Easy_141_Linked_List_Cycle.csproj", "{0345AD4D-098F-47A8-B552-1BE0EEF31893}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy141_LinkedListCycle", "Easy141_LinkedListCycle\Easy141_LinkedListCycle.csproj", "{0345AD4D-098F-47A8-B552-1BE0EEF31893}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_104_Maximum_Depth_of_Binary_Tree", "Easy_104_Maximum_Depth_of_Binary_Tree\Easy_104_Maximum_Depth_of_Binary_Tree.csproj", "{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy104_MaximumDepthOfBinaryTree", "Easy104_MaximumDepthOfBinaryTree\Easy104_MaximumDepthOfBinaryTree.csproj", "{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_21_Merge_Two_Sorted_Lists", "Easy_21_Merge_Two_Sorted_Lists\Easy_21_Merge_Two_Sorted_Lists.csproj", "{8F7BD4B6-E0CC-4E92-8ECA-057DD5A995FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy21_MergeTwoSortedLists", "Easy21_MergeTwoSortedLists\Easy21_MergeTwoSortedLists.csproj", "{8F7BD4B6-E0CC-4E92-8ECA-057DD5A995FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_100_Same_Tree", "Easy_100_Same_Tree\Easy_100_Same_Tree.csproj", "{F8F69DF2-AC33-43D1-B6A3-A8232C08ED8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy100_SameTree", "Easy100_SameTree\Easy100_SameTree.csproj", "{F8F69DF2-AC33-43D1-B6A3-A8232C08ED8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium_80_Remove_Duplicates_From_Sorted_ArrayII", "Medium_80_Remove_Duplicates_From_Sorted_ArrayII\Medium_80_Remove_Duplicates_From_Sorted_ArrayII.csproj", "{9F820A90-3709-49B3-B353-DDB358547088}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium80_RemoveDuplicatesFromSortedArrayII", "Medium80_RemoveDuplicatesFromSortedArrayII\Medium80_RemoveDuplicatesFromSortedArrayII.csproj", "{9F820A90-3709-49B3-B353-DDB358547088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_70_Climbing_Stairs", "Easy_70_Climbing_Stairs\Easy_70_Climbing_Stairs.csproj", "{8ECC1E0D-463E-4F30-80D6-1C439D94AC0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy70_ClimbingStairs", "Easy70_ClimbingStairs\Easy70_ClimbingStairs.csproj", "{8ECC1E0D-463E-4F30-80D6-1C439D94AC0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_67_Add_Binary", "Easy_67_Add_Binary\Easy_67_Add_Binary.csproj", "{FBD9063C-5D99-497D-9840-15FCE04ADEA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy67_AddBinary", "Easy67_AddBinary\Easy67_AddBinary.csproj", "{FBD9063C-5D99-497D-9840-15FCE04ADEA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_ 66_Plus_One", "Easy_ 66_Plus_One\Easy_ 66_Plus_One.csproj", "{D764EA5D-27AC-4DC2-9E05-A6ACA171010B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy66_PlusOne", "Easy66_PlusOne\Easy66_PlusOne.csproj", "{D764EA5D-27AC-4DC2-9E05-A6ACA171010B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_35_Search_Insert_Position", "Easy_35_Search_Insert_Position\Easy_35_Search_Insert_Position.csproj", "{E8865ACA-DD03-4419-A546-A298139B141D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy35_SearchInsertPosition", "Easy35_SearchInsertPosition\Easy35_SearchInsertPosition.csproj", "{E8865ACA-DD03-4419-A546-A298139B141D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium_209_Minimum_Size_Subarray_Sum", "Medium_209_Minimum_Size_Subarray_Sum\Medium_209_Minimum_Size_Subarray_Sum.csproj", "{EEBFFD7C-A526-428A-95ED-B6F9F45AEC87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium209_MinimumSizeSubarraySum", "Medium209_MinimumSizeSubarraySum\Medium209_MinimumSizeSubarraySum.csproj", "{EEBFFD7C-A526-428A-95ED-B6F9F45AEC87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_9_Palindrome_Number", "Easy_9_Palindrome_Number\Easy_9_Palindrome_Number.csproj", "{3ECFB46F-9DF5-4158-8E46-8988AA826C1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy9_PalindromeNumber", "Easy9_PalindromeNumber\Easy9_PalindromeNumber.csproj", "{3ECFB46F-9DF5-4158-8E46-8988AA826C1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy_1_Two_Sum", "Easy_1_Two_Sum\Easy_1_Two_Sum.csproj", "{80A6480C-95B0-44C6-B44E-F6413B31BD21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy1_TwoSum", "Easy1_TwoSum\Easy1_TwoSum.csproj", "{80A6480C-95B0-44C6-B44E-F6413B31BD21}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy27_RemoveElement", "Easy27_RemoveElement\Easy27_RemoveElement.csproj", "{C7E688FD-F9CB-40BD-A309-C65F6DB27052}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{B3A98AAB-7E59-477E-9D52-CD6BAD71650C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String", "String", "{ACCC1379-D450-4457-9494-628F0288C21F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedList", "LinkedList", "{6A83B5BD-E41D-478D-92CD-D33E8DD04A16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree", "Tree", "{2748E219-5FEC-427A-8F2A-D728488E8DAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Math", "Math", "{830FCE3E-C298-45D5-A656-48F4648E4EFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -156,5 +166,32 @@ Global
 		{C7E688FD-F9CB-40BD-A309-C65F6DB27052}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7E688FD-F9CB-40BD-A309-C65F6DB27052}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7E688FD-F9CB-40BD-A309-C65F6DB27052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{80A6480C-95B0-44C6-B44E-F6413B31BD21} = {B3A98AAB-7E59-477E-9D52-CD6BAD71650C}
+		{C7E688FD-F9CB-40BD-A309-C65F6DB27052} = {B3A98AAB-7E59-477E-9D52-CD6BAD71650C}
+		{B0FF4A30-EBE8-4211-A579-85D11AF9CD03} = {B3A98AAB-7E59-477E-9D52-CD6BAD71650C}
+		{9F820A90-3709-49B3-B353-DDB358547088} = {B3A98AAB-7E59-477E-9D52-CD6BAD71650C}
+		{F8173CA2-B6C5-4996-B930-90695F14EE0D} = {B3A98AAB-7E59-477E-9D52-CD6BAD71650C}
+		{622A93C2-24E7-42A0-95F8-EA3114B87D85} = {ACCC1379-D450-4457-9494-628F0288C21F}
+		{49B08472-3A64-405D-81E6-7CBF017080F5} = {ACCC1379-D450-4457-9494-628F0288C21F}
+		{711445A3-166D-479B-AFB6-7516B5E39AB8} = {ACCC1379-D450-4457-9494-628F0288C21F}
+		{B0DEB871-74D7-4ABA-BF0D-69E09CFB7C3E} = {ACCC1379-D450-4457-9494-628F0288C21F}
+		{3ECFB46F-9DF5-4158-8E46-8988AA826C1D} = {ACCC1379-D450-4457-9494-628F0288C21F}
+		{0D8FC2ED-E433-491C-8379-9756AE4AD8C3} = {ACCC1379-D450-4457-9494-628F0288C21F}
+		{F56F3686-9C36-42F9-A29D-729E43312661} = {ACCC1379-D450-4457-9494-628F0288C21F}
+		{317FD1E1-CE9E-4BF5-AA3B-E5670245AD3E} = {ACCC1379-D450-4457-9494-628F0288C21F}
+		{807AC483-9689-4E1B-95C9-5A2F2AFEEE95} = {ACCC1379-D450-4457-9494-628F0288C21F}
+		{8F7BD4B6-E0CC-4E92-8ECA-057DD5A995FB} = {6A83B5BD-E41D-478D-92CD-D33E8DD04A16}
+		{0345AD4D-098F-47A8-B552-1BE0EEF31893} = {6A83B5BD-E41D-478D-92CD-D33E8DD04A16}
+		{E8865ACA-DD03-4419-A546-A298139B141D} = {B3A98AAB-7E59-477E-9D52-CD6BAD71650C}
+		{D764EA5D-27AC-4DC2-9E05-A6ACA171010B} = {B3A98AAB-7E59-477E-9D52-CD6BAD71650C}
+		{D7157CCE-E4E5-434F-A6AE-8475B3EB1852} = {B3A98AAB-7E59-477E-9D52-CD6BAD71650C}
+		{26919F02-AC5A-45CE-912C-DEFBF1A6A7AF} = {B3A98AAB-7E59-477E-9D52-CD6BAD71650C}
+		{EEBFFD7C-A526-428A-95ED-B6F9F45AEC87} = {B3A98AAB-7E59-477E-9D52-CD6BAD71650C}
+		{8ECC1E0D-463E-4F30-80D6-1C439D94AC0B} = {2748E219-5FEC-427A-8F2A-D728488E8DAC}
+		{F8F69DF2-AC33-43D1-B6A3-A8232C08ED8B} = {2748E219-5FEC-427A-8F2A-D728488E8DAC}
+		{98AF1F8A-2594-47E8-931A-4DE41D3B4A3C} = {2748E219-5FEC-427A-8F2A-D728488E8DAC}
+		{FBD9063C-5D99-497D-9840-15FCE04ADEA6} = {830FCE3E-C298-45D5-A656-48F4648E4EFA}
 	EndGlobalSection
 EndGlobal
